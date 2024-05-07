@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="friendclass.cpp" />
     <ClCompile Include="friendFunction.cpp" />
+    <ClCompile Include="friendFunction2.cpp" />
     <ClCompile Include="pertemuanke9.cpp" />
     <ClCompile Include="pointerdua.cpp" />
     <ClCompile Include="pointersatu.cpp" />
