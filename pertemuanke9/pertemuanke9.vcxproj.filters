@@ -27,5 +27,8 @@
     <ClCompile Include="friendclass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="friendFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
